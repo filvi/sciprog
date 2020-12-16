@@ -1,0 +1,7 @@
+.ctb_global_show .ctb_show ~ div.text_cell_render{
+    display: none;
+}
+
+.celltoolbar{
+    display: none;
+}
